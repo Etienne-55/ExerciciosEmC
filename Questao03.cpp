@@ -1,4 +1,4 @@
-/* Escreva um programa que leia um numero na base decimal e em seguida imprima esse
+/*3)Escreva um programa que leia um numero na base decimal e em seguida imprima esse
 mesmo numero nas bases octal e hexadecimal. */
 
 #include <stdio.h>
